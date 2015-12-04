@@ -1,0 +1,2 @@
+1、UseDNS关掉
+2、/etc/resolve.conf里面的DNS要配置正确 
