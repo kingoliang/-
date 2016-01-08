@@ -17,7 +17,7 @@
 
     <!-- Checks that property files contain the same keys.         -->
     <!-- See http://checkstyle.sf.net/config_misc.html#Translation -->
-    <module name="Translation"/>
+    <!--module name="Translation"/-->
 
     <!-- Checks for Size Violations.                    -->
     <!-- See http://checkstyle.sf.net/config_sizes.html -->
@@ -81,7 +81,7 @@
 
         <!-- Checks for common coding problems               -->
         <!-- See http://checkstyle.sf.net/config_coding.html -->
-        <module name="IllegalInstantiation"/>
+        <!--module name="IllegalInstantiation"/-->
         <module name="MagicNumber"/>
         <module name="MissingSwitchDefault"/>
         <module name="MultipleStringLiterals" />
